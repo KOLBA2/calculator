@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #bbb;
+  overflow-x: hidden;
+}
+
+.form {
+  width: 280px;
+  padding: 10px;
+  margin: auto;
+  background: black;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  top: 60px;
+}
+
+.input {
+  width: 95%;
+  padding: 10% 3%;
+  background-color: black;
+  border: none;
+  outline: none;
+  text-align: right;
+  color: white;
+  font-size: 4em;
+}
+
+div input[type="button"] {
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+}
+
+.AC {
+  width: 202px !important;
+  border-radius: 25px !important;
+  background: #9e9e9e !important;
+  cursor: pointer;
+}
+
+.z {
+  width: 130px !important;
+  border-radius: 25px !important;
+  cursor: pointer;
+}
+
+.or {
+  background: #f79013;
+  color: white;
+  cursor: pointer;
+}
+
+.n {
+  background: #333333;
+  color: white;
+  cursor: pointer;
+}
